@@ -47,7 +47,7 @@ const Hero = () => {
         >
           <div className="w-full aspect-square relative">
             <Image
-              src="/profile-image.jpg"
+              src="/projects/avatar.png"
               alt="Profile"
               fill
               className="rounded-full object-cover"
